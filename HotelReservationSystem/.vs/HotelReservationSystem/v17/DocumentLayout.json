@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|c:\\users\\kunraghu\\source\\repos\\hotelreservationsystem\\hotelreservationsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|c:\\users\\kunraghu\\source\\repos\\hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|c:\\users\\kunraghu\\source\\repos\\hotelreservationsystem\\utilities\\datehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|solutionrelative:utilities\\datehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|c:\\users\\kunraghu\\source\\repos\\hotelreservationsystem\\utilities\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|solutionrelative:utilities\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|c:\\users\\kunraghu\\source\\repos\\hotelreservationsystem\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|solutionrelative:services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|c:\\users\\kunraghu\\source\\repos\\hotelreservationsystem\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|c:\\users\\kunraghu\\source\\repos\\hotelreservationsystem\\data\\hotels.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|solutionrelative:data\\hotels.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|c:\\users\\kunraghu\\source\\repos\\hotelreservationsystem\\data\\bookings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD2E1FBB-BD1C-48E8-B082-962D7CBA8D11}|HotelReservationSystem.csproj|solutionrelative:data\\bookings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:12:12.081Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "Services\\HotelService.cs",
+              "ToolTip": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Services\\HotelService.cs",
+              "RelativeToolTip": "Services\\HotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:21:43.348Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelReservationSystem",
+              "DocumentMoniker": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\HotelReservationSystem.csproj",
+              "RelativeDocumentMoniker": "HotelReservationSystem.csproj",
+              "ToolTip": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\HotelReservationSystem.csproj",
+              "RelativeToolTip": "HotelReservationSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T13:23:21.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Models\\Models.cs",
+              "ToolTip": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Models\\Models.cs",
+              "RelativeToolTip": "Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:52:21.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bookings.json",
+              "DocumentMoniker": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Data\\bookings.json",
+              "RelativeDocumentMoniker": "Data\\bookings.json",
+              "ToolTip": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Data\\bookings.json",
+              "RelativeToolTip": "Data\\bookings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T05:48:57.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hotels.json",
+              "DocumentMoniker": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Data\\hotels.json",
+              "RelativeDocumentMoniker": "Data\\hotels.json",
+              "ToolTip": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Data\\hotels.json",
+              "RelativeToolTip": "Data\\hotels.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T05:16:38.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Utilities\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "Utilities\\CommandHandler.cs",
+              "ToolTip": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Utilities\\CommandHandler.cs",
+              "RelativeToolTip": "Utilities\\CommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:40:01.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Utilities\\DateHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\DateHelper.cs",
+              "ToolTip": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\Utilities\\DateHelper.cs",
+              "RelativeToolTip": "Utilities\\DateHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:23:22.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

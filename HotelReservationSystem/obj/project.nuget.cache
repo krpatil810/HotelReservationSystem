@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbqY8gMQ9SI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kunraghu\\source\\repos\\HotelReservationSystem\\HotelReservationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kunraghu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
